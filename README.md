@@ -56,4 +56,6 @@ The Cosmic Club has been actively involved in organizing various events at our c
 
 I successfully completed an intensive 10-day Excel course instructed by our college online. The course was structured with daily live sessions and practical assignments. Each day focused on a different aspect of Excel, starting from basics like data entry and formatting to advanced topics such as pivot tables, macros, and data visualization. The interactive sessions included real-time problem-solving and Q&A segments. Upon completion, I received a certificate, marking my proficiency in Excel. This course has significantly enhanced my data management and analytical skills.
 
+THIS IS LINK TO MY EXCEL CERTIFICATE 
 
+https://www.mygreatlearning.com/certificate/TDRMYETO
