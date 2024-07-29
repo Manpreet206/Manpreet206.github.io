@@ -50,3 +50,10 @@ Parminder Singh recently conducted a lecture in the auditorium, informing SC stu
 
 ## Activities of Cosmic Club
 The Cosmic Club has been actively involved in organizing various events at our college, including youth fests and the Anant Utsav. Their activities span a range of events, from cultural performances to educational workshops, aimed at enhancing student engagement and fostering creativity. Students from the first year are particularly encouraged to take part in organizing these events, providing them with valuable experience in event management and teamwork. The Cosmic Club also conducts lectures to discuss event planning, coordination, and execution, helping students understand the intricacies of managing large-scale activities. These initiatives not only enrich college life but also provide students with practical skills and leadership opportunities.
+
+
+## Excel Course Completion
+
+I successfully completed an intensive 10-day Excel course instructed by our college online. The course was structured with daily live sessions and practical assignments. Each day focused on a different aspect of Excel, starting from basics like data entry and formatting to advanced topics such as pivot tables, macros, and data visualization. The interactive sessions included real-time problem-solving and Q&A segments. Upon completion, I received a certificate, marking my proficiency in Excel. This course has significantly enhanced my data management and analytical skills.
+
+
